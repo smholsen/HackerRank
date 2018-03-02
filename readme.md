@@ -41,6 +41,8 @@ Below is a list of the challenges currently hosted in this repository.
 - [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)
 - [Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list)
 - [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)
+- [Merge Two Sorted Linked Lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists)
+- [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail)
 
 #### Trees
 - [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)
