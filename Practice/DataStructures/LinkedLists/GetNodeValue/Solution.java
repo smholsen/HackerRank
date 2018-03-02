@@ -9,7 +9,7 @@ public class Solution {
     Number of elements in the list will always be greater than N.
     Node is defined as
     */
-    
+
     class Node {
         int data;
         Node next;
