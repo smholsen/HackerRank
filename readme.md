@@ -44,6 +44,7 @@ Below is a list of the challenges currently hosted in this repository.
 - [Merge Two Sorted Linked Lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists)
 - [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail)
 - [Delete Duplicate-Value Nodes From a Sorted Linked List](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list)
+- [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)
 
 #### Trees
 - [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)
