@@ -58,6 +58,7 @@ Below is a list of the challenges currently hosted in this repository.
 - [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal)
 - [Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion)
 - [Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor)
+- [Swap Nodes \[Algo\]](https://www.hackerrank.com/challenges/swap-nodes-algo)
 
 
 #### Queues
