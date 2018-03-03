@@ -57,3 +57,11 @@ Below is a list of the challenges currently hosted in this repository.
 
 ### Java
 - [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)
+
+
+## All Competitions
+
+### Project Euler+ 
+- [Project Euler #1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)
+- [Project Euler #2: Even Fibonacci numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002)
+
