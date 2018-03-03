@@ -45,9 +45,16 @@ Below is a list of the challenges currently hosted in this repository.
 - [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail)
 - [Delete Duplicate-Value Nodes From a Sorted Linked List](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list)
 - [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)
+- [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list)
+- [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list)
 
 #### Trees
 - [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)
+- [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)
+- [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)
+- [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)
+- [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree)
+- [Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view)
 
 #### Queues
 - [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks)
