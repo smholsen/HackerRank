@@ -55,6 +55,10 @@ Below is a list of the challenges currently hosted in this repository.
 - [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)
 - [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree)
 - [Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view)
+- [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal)
+- [Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion)
+- [Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor)
+
 
 #### Queues
 - [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks)
