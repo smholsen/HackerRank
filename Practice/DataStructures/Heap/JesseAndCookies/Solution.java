@@ -6,10 +6,10 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Solution {
-    static class Cookie implements Comparable<Cookie>{
+    static class Cookie implements Comparable<Cookie> {
         int sweetness;
 
-        Cookie (int sweetness) {
+        Cookie(int sweetness) {
             this.sweetness = sweetness;
         }
 
@@ -27,7 +27,7 @@ public class Solution {
     static class CookieMinHeap {
         List<Cookie> list = new ArrayList<>();
 
-        void add (Cookie c) {
+        void add(Cookie c) {
             list.add(c);
             bubbleUp(list.size() - 1);
         }
@@ -86,11 +86,11 @@ public class Solution {
         }
 
         private int left(int i) {
-            return (2*i) + 1;
+            return (2 * i) + 1;
         }
 
         private int right(int i) {
-            return (2*i) + 2;
+            return (2 * i) + 2;
         }
 
         private void swap(int i, int i1) {
@@ -100,7 +100,7 @@ public class Solution {
         }
 
         private int getParent(int i) {
-            return (i-1)/2;
+            return (i - 1) / 2;
         }
 
         @Override
@@ -111,7 +111,7 @@ public class Solution {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int [] meta = Arrays.stream(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+        int[] meta = Arrays.stream(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
         int nCookies = meta[0];
         int k = meta[1];
         CookieMinHeap minHeap = new CookieMinHeap();
@@ -121,7 +121,7 @@ public class Solution {
         }
         int nMerges = 0;
         boolean success = true;
-        while(minHeap.peek() != null && minHeap.peek().sweetness < k) {
+        while (minHeap.peek() != null && minHeap.peek().sweetness < k) {
             // While the least sweet element is less than our threshold, we merge it with the next least sweet cookie.
             if (minHeap.size() < 2) {
                 // No more cookies to merge...
@@ -131,7 +131,7 @@ public class Solution {
             } else {
                 Cookie leastSweet = minHeap.pop();
                 Cookie nextLeastSweet = minHeap.pop();
-                Cookie mergedCookie = new Cookie(leastSweet.sweetness + (2*nextLeastSweet.sweetness));
+                Cookie mergedCookie = new Cookie(leastSweet.sweetness + (2 * nextLeastSweet.sweetness));
                 minHeap.add(mergedCookie);
                 nMerges++;
             }

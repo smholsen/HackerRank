@@ -9,7 +9,7 @@ public class Solution {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        while(sc.hasNext()) {
+        while (sc.hasNext()) {
             String[] query = sc.nextLine().split(" ");
             if (query.length >= 1 && (query[0].equals("1") || query[0].equals("2") || query[0].equals("3"))) {
                 if (Integer.parseInt(query[0]) == 1) {
@@ -31,7 +31,7 @@ public class Solution {
 
     private static void dequeue() {
         if (q.isEmpty()) {
-            while(!tmp.isEmpty()) {
+            while (!tmp.isEmpty()) {
                 q.push(tmp.pop());
             }
         }
@@ -40,7 +40,7 @@ public class Solution {
 
     private static int peek() {
         if (q.isEmpty()) {
-            while(!tmp.isEmpty()) {
+            while (!tmp.isEmpty()) {
                 q.push(tmp.pop());
             }
         }

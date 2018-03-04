@@ -21,9 +21,15 @@ Below is a list of the challenges currently hosted in this repository.
         
 
 ## Practice
+
 ### Algorithms
 
 #### Implementation
+- [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/AppleAndOrange/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/AppleAndOrange/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/AppleAndOrange/testcases.zip)
+
 - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)
     - [ProblemStatement](/Practice/Algorithms/Implementation/ExtraLongFactorials/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Implementation/ExtraLongFactorials/Solution.java)
@@ -33,6 +39,16 @@ Below is a list of the challenges currently hosted in this repository.
     - [ProblemStatement](/Practice/Algorithms/Implementation/FormingAMagicSquare/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Implementation/FormingAMagicSquare/Solution.java)
     - [Testcases](/Practice/Algorithms/Implementation/FormingAMagicSquare/testcases.zip)
+    
+- [Grading Students](https://www.hackerrank.com/challenges/grading)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/GradingStudents/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/GradingStudents/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/GradingStudents/testcases.zip)
+    
+- [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/Kangaroo/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/Kangaroo/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/Kangaroo/testcases.zip)
     
 - [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)
     - [ProblemStatement](/Practice/Algorithms/Implementation/MatrixLayerRotation/ProblemStatement.pdf)
@@ -44,6 +60,11 @@ Below is a list of the challenges currently hosted in this repository.
     - [ProblemStatement](/Practice/Algorithms/Warmup/AVeryBigSum/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Warmup/AVeryBigSum/Solution.java)
     - [Testcases](/Practice/Algorithms/Warmup/AVeryBigSum/testcases.zip)
+    
+- [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
+    - [ProblemStatement](/Practice/Algorithms/Warmup/BirthdayCakeCandles/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Warmup/BirthdayCakeCandles/Solution.java)
+    - [Testcases](/Practice/Algorithms/Warmup/BirthdayCakeCandles/testcases.zip)
     
 - [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
     - [ProblemStatement](/Practice/Algorithms/Warmup/CompareTheTriplets/ProblemStatement.pdf)
@@ -78,7 +99,12 @@ Below is a list of the challenges currently hosted in this repository.
 - [Staircase](https://www.hackerrank.com/challenges/staircase)
     - [ProblemStatement](/Practice/Algorithms/Warmup/Staircase/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Warmup/Staircase/Solution.java)
-    - [Testcases](/Practice/Algorithms/Warmup/Staircase/testcases.zip)    
+    - [Testcases](/Practice/Algorithms/Warmup/Staircase/testcases.zip) 
+
+- [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
+    - [ProblemStatement](/Practice/Algorithms/Warmup/TimeConversion/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Warmup/TimeConversion/Solution.java)
+    - [Testcases](/Practice/Algorithms/Warmup/TimeConversion/testcases.zip)    
 
 ### Data Structures
 #### Arrays

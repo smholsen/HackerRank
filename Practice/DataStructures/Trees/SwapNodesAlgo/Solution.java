@@ -10,9 +10,11 @@ public class Solution {
         Node left;
         Node right;
         int index;
+
         Node(int index) {
             this.index = index;
         }
+
         @Override
         public String toString() {
             return String.valueOf(index);

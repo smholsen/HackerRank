@@ -15,7 +15,7 @@ public class Solution {
         }
 
         void bubbleUp(int i) {
-            while(list.get(getParentIndex(i)) > list.get(i) && i != 0) {
+            while (list.get(getParentIndex(i)) > list.get(i) && i != 0) {
                 swap(i, getParentIndex(i));
                 i = getParentIndex(i);
             }
@@ -42,11 +42,11 @@ public class Solution {
         }
 
         int left(int i) {
-            return (2*i) + 1;
+            return (2 * i) + 1;
         }
 
         int right(int i) {
-            return (2*i) + 2;
+            return (2 * i) + 2;
         }
 
         int getParentIndex(int i) {

@@ -7,7 +7,7 @@ public class Solution {
 
     static void extraLongFactorials(int n) {
         BigInteger bigint = BigInteger.valueOf(n);
-        for (int i = n-1; i > 0; i--) {
+        for (int i = n - 1; i > 0; i--) {
             bigint = bigint.multiply(BigInteger.valueOf(i));
         }
         System.out.println(bigint);

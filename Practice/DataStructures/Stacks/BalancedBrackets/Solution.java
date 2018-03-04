@@ -23,7 +23,7 @@ public class Solution {
                     return "NO";
                 }
                 String previousBracket = stack.pop();
-                if (! (brackets.get(previousBracket).equals(bracket))) {
+                if (!(brackets.get(previousBracket).equals(bracket))) {
                     return "NO";
                 }
             }
@@ -37,7 +37,7 @@ public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int t = in.nextInt();
-        for(int a0 = 0; a0 < t; a0++){
+        for (int a0 = 0; a0 < t; a0++) {
             String s = in.next();
             String result = isBalanced(s);
             System.out.println(result);

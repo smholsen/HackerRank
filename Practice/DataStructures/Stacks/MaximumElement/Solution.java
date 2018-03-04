@@ -14,6 +14,7 @@ public class Solution {
     static class Node {
         int val;
         int maxBelow;
+
         Node(int val, int max) {
             this.val = val;
             this.maxBelow = max;
