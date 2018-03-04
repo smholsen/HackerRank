@@ -114,6 +114,11 @@ Below is a list of the challenges currently hosted in this repository.
     - [Solution](/Practice/DataStructures/Heap/QHEAP1/Solution.java)
     - [Testcases](/Practice/DataStructures/Heap/QHEAP1/testcases.zip)
     
+- [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies)
+    - [ProblemStatement](/Practice/DataStructures/Heap/JesseAndCookies/ProblemStatement.pdf)
+    - [Solution](/Practice/DataStructures/Heap/JesseAndCookies/Solution.java)
+    - [Testcases](/Practice/DataStructures/Heap/JesseAndCookies/testcases.zip)
+    
 
 #### LinkedLists
 - [Compare Two Linked Lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)
