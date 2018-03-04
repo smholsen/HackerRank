@@ -69,6 +69,7 @@ Below is a list of the challenges currently hosted in this repository.
 
 #### Stacks
 - [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets)
+- [Maximum Element](https://www.hackerrank.com/challenges/maximum-element)
 
 ### Java
 - [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)
