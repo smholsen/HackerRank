@@ -55,6 +55,11 @@ Below is a list of the challenges currently hosted in this repository.
     - [Solution](/Practice/Algorithms/Warmup/DiagonalDifference/Solution.java)
     - [Testcases](/Practice/Algorithms/Warmup/DiagonalDifference/testcases.zip)
     
+- [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+    - [ProblemStatement](/Practice/Algorithms/Warmup/MiniMaxSum/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Warmup/MiniMaxSum/Solution.java)
+    - [Testcases](/Practice/Algorithms/Warmup/MiniMaxSum/testcases.zip)
+    
 - [PlusMinus](https://www.hackerrank.com/challenges/plus-minus)
     - [ProblemStatement](/Practice/Algorithms/Warmup/PlusMinus/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Warmup/PlusMinus/Solution.java)
