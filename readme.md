@@ -108,17 +108,16 @@ Below is a list of the challenges currently hosted in this repository.
     - [Testcases](/Practice/DataStructures/Arrays/TwoDArrayDS/testcases.zip)
     
 
-#### Heap
-- [QHEAP1](https://www.hackerrank.com/challenges/qheap1)
-    - [ProblemStatement](/Practice/DataStructures/Heap/QHEAP1/ProblemStatement.pdf)
-    - [Solution](/Practice/DataStructures/Heap/QHEAP1/Solution.java)
-    - [Testcases](/Practice/DataStructures/Heap/QHEAP1/testcases.zip)
-    
+#### Heap    
 - [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies)
     - [ProblemStatement](/Practice/DataStructures/Heap/JesseAndCookies/ProblemStatement.pdf)
     - [Solution](/Practice/DataStructures/Heap/JesseAndCookies/Solution.java)
     - [Testcases](/Practice/DataStructures/Heap/JesseAndCookies/testcases.zip)
     
+- [QHEAP1](https://www.hackerrank.com/challenges/qheap1)
+    - [ProblemStatement](/Practice/DataStructures/Heap/QHEAP1/ProblemStatement.pdf)
+    - [Solution](/Practice/DataStructures/Heap/QHEAP1/Solution.java)
+    - [Testcases](/Practice/DataStructures/Heap/QHEAP1/testcases.zip)
 
 #### LinkedLists
 - [Compare Two Linked Lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)
@@ -209,7 +208,12 @@ Below is a list of the challenges currently hosted in this repository.
     - [ProblemStatement](/Practice/DataStructures/Stacks/BalancedBrackets/ProblemStatement.pdf)
     - [Solution](/Practice/DataStructures/Stacks/BalancedBrackets/Solution.java)
     - [Testcases](/Practice/DataStructures/Stacks/BalancedBrackets/testcases.zip)
-    
+
+- [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)
+    - [ProblemStatement](/Practice/DataStructures/Stacks/EqualStacks/ProblemStatement.pdf)
+    - [Solution](/Practice/DataStructures/Stacks/EqualStacks/Solution.java)
+    - [Testcases](/Practice/DataStructures/Stacks/EqualStacks/testcases.zip)    
+
 - [Maximum Element](https://www.hackerrank.com/challenges/maximum-element)
     - [ProblemStatement](/Practice/DataStructures/Stacks/MaximumElement/ProblemStatement.pdf)
     - [Solution](/Practice/DataStructures/Stacks/MaximumElement/Solution.java)
