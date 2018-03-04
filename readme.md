@@ -31,6 +31,9 @@ Below is a list of the challenges currently hosted in this repository.
 - [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)
 - [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)
 
+#### Heap
+- [QHEAP1](https://www.hackerrank.com/challenges/qheap1)
+
 #### LinkedLists
 - [Compare Two Linked Lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)
 - [Delete A Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list)
