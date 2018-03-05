@@ -34,6 +34,16 @@ Below is a list of the challenges currently hosted in this repository.
     - [ProblemStatement](/Practice/Algorithms/Implementation/BetweenTwoSets/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Implementation/BetweenTwoSets/Solution.java)
     - [Testcases](/Practice/Algorithms/Implementation/BetweenTwoSets/testcases.zip)
+    
+- [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/BirthdayChocolate/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/BirthdayChocolate/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/BirthdayChocolate/testcases.zip)
+    
+- [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/BreakingTheRecords/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/BreakingTheRecords/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/BreakingTheRecords/testcases.zip)
 
 - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)
     - [ProblemStatement](/Practice/Algorithms/Implementation/ExtraLongFactorials/ProblemStatement.pdf)
