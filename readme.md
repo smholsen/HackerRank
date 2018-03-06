@@ -40,10 +40,20 @@ Below is a list of the challenges currently hosted in this repository.
     - [Solution](/Practice/Algorithms/Implementation/BirthdayChocolate/Solution.java)
     - [Testcases](/Practice/Algorithms/Implementation/BirthdayChocolate/testcases.zip)
     
+- [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/BonAppetit/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/BonAppetit/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/BonAppetit/testcases.zip)
+    
 - [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)
     - [ProblemStatement](/Practice/Algorithms/Implementation/BreakingTheRecords/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Implementation/BreakingTheRecords/Solution.java)
     - [Testcases](/Practice/Algorithms/Implementation/BreakingTheRecords/testcases.zip)
+
+- [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/CountingValleys/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/CountingValleys/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/CountingValleys/testcases.zip)
 
 - [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)
     - [ProblemStatement](/Practice/Algorithms/Implementation/DayOfTheProgrammer/ProblemStatement.pdf)
@@ -54,6 +64,16 @@ Below is a list of the challenges currently hosted in this repository.
     - [ProblemStatement](/Practice/Algorithms/Implementation/DivisibleSumPairs/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Implementation/DivisibleSumPairs/Solution.java)
     - [Testcases](/Practice/Algorithms/Implementation/DivisibleSumPairs/testcases.zip)
+
+- [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/DrawingBook/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/DrawingBook/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/DrawingBook/testcases.zip)
+
+- [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/ElectronicsShop/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/ElectronicsShop/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/ElectronicsShop/testcases.zip)
 
 - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)
     - [ProblemStatement](/Practice/Algorithms/Implementation/ExtraLongFactorials/ProblemStatement.pdf)
@@ -84,6 +104,11 @@ Below is a list of the challenges currently hosted in this repository.
     - [ProblemStatement](/Practice/Algorithms/Implementation/MigratoryBirds/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Implementation/MigratoryBirds/Solution.java)
     - [Testcases](/Practice/Algorithms/Implementation/MigratoryBirds/testcases.zip)
+    
+- [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/SockMerchant/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/SockMerchant/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/SockMerchant/testcases.zip)
 
 #### Warmup
 - [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
