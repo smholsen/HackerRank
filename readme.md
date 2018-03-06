@@ -74,6 +74,11 @@ Below is a list of the challenges currently hosted in this repository.
     - [ProblemStatement](/Practice/Algorithms/Implementation/MatrixLayerRotation/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Implementation/MatrixLayerRotation/Solution.java)
     - [Testcases](/Practice/Algorithms/Implementation/MatrixLayerRotation/testcases.zip)
+    
+- [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/MigratoryBirds/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/MigratoryBirds/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/MigratoryBirds/testcases.zip)
 
 #### Warmup
 - [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)
