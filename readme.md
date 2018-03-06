@@ -45,6 +45,11 @@ Below is a list of the challenges currently hosted in this repository.
     - [Solution](/Practice/Algorithms/Implementation/BreakingTheRecords/Solution.java)
     - [Testcases](/Practice/Algorithms/Implementation/BreakingTheRecords/testcases.zip)
 
+- [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)
+    - [ProblemStatement](/Practice/Algorithms/Implementation/DayOfTheProgrammer/ProblemStatement.pdf)
+    - [Solution](/Practice/Algorithms/Implementation/DayOfTheProgrammer/Solution.java)
+    - [Testcases](/Practice/Algorithms/Implementation/DayOfTheProgrammer/testcases.zip)
+
 - [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)
     - [ProblemStatement](/Practice/Algorithms/Implementation/DivisibleSumPairs/ProblemStatement.pdf)
     - [Solution](/Practice/Algorithms/Implementation/DivisibleSumPairs/Solution.java)
