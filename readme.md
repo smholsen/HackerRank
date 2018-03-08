@@ -50,6 +50,7 @@ Challenge| Problem Statement | Solution | Testcases
 [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [PDF](/Practice/Algorithms/Implementation/SockMerchant/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/SockMerchant/Solution.java) | [zip](/Practice/Algorithms/Implementation/SockMerchant/testcases.zip)
 [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | [PDF](/Practice/Algorithms/Implementation/TheHurdleRace/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/TheHurdleRace/Solution.java) | [zip](/Practice/Algorithms/Implementation/TheHurdleRace/testcases.zip)
 [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | [PDF](/Practice/Algorithms/Implementation/UtopianTree/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/UtopianTree/Solution.java) | [zip](/Practice/Algorithms/Implementation/UtopianTree/testcases.zip)
+[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | [PDF](/Practice/Algorithms/Implementation/ViralAdvertising/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/ViralAdvertising/Solution.java) | [zip](/Practice/Algorithms/Implementation/ViralAdvertising/testcases.zip)
 
 #### Warmup
 Challenge| Problem Statement | Solution | Testcases
