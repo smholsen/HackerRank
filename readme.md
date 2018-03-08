@@ -25,6 +25,7 @@ Challenge| Problem Statement | Solution | Testcases
 #### Implementation
 Challenge| Problem Statement | Solution | Testcases
 ----------|-------------------|----------|----------
+[Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [PDF](/Practice/Algorithms/Implementation/AngryProfessor/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/AngryProfessor/Solution.java) | [zip](/Practice/Algorithms/Implementation/AngryProfessor/testcases.zip)
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [PDF](/Practice/Algorithms/Implementation/AppleAndOrange/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/AppleAndOrange/Solution.java) | [zip](/Practice/Algorithms/Implementation/AppleAndOrange/testcases.zip)
 [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | [PDF](/Practice/Algorithms/Implementation/BetweenTwoSets/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/BetweenTwoSets/Solution.java) | [zip](/Practice/Algorithms/Implementation/BetweenTwoSets/testcases.zip)
 [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | [PDF](/Practice/Algorithms/Implementation/BirthdayChocolate/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/BirthdayChocolate/Solution.java) | [zip](/Practice/Algorithms/Implementation/BirthdayChocolate/testcases.zip)
