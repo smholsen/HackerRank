@@ -1,6 +1,6 @@
 package Practice.DataStructures.Trees.TreeHeightOfABinaryTree;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Solution {
 

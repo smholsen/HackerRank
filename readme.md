@@ -45,6 +45,7 @@ Challenge| Problem Statement | Solution | Testcases
 [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | [PDF](/Practice/Algorithms/Implementation/MigratoryBirds/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/MigratoryBirds/Solution.java) | [zip](/Practice/Algorithms/Implementation/MigratoryBirds/testcases.zip)
 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | [PDF](/Practice/Algorithms/Implementation/PickingNumbers/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/PickingNumbers/Solution.java) | [zip](/Practice/Algorithms/Implementation/PickingNumbers/testcases.zip)
 [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [PDF](/Practice/Algorithms/Implementation/SockMerchant/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/SockMerchant/Solution.java) | [zip](/Practice/Algorithms/Implementation/SockMerchant/testcases.zip)
+[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | [PDF](/Practice/Algorithms/Implementation/TheHurdleRace/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/TheHurdleRace/Solution.java) | [zip](/Practice/Algorithms/Implementation/TheHurdleRace/testcases.zip)
 
 #### Warmup
 Challenge| Problem Statement | Solution | Testcases
