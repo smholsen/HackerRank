@@ -70,6 +70,13 @@ Challenge| Problem Statement | Solution | Testcases
 [Staircase](https://www.hackerrank.com/challenges/staircase) | [PDF](/Practice/Algorithms/Warmup/Staircase/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Warmup/Staircase/Solution.java) | [zip](/Practice/Algorithms/Warmup/Staircase/testcases.zip) 
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [PDF](/Practice/Algorithms/Warmup/TimeConversion/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Warmup/TimeConversion/Solution.java) | [zip](/Practice/Algorithms/Warmup/TimeConversion/testcases.zip)    
 
+### Artificial Intelligence 
+#### Bot Building
+Challenge| Problem Statement | Solution | Testcases
+----------|-------------------|----------|----------
+[Bot saves princess](https://www.hackerrank.com/challenges/saveprincess) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/testcases.zip)
+
+
 ### Data Structures
 #### Arrays
 Challenge| Problem Statement | Solution | Testcases
