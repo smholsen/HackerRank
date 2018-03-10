@@ -22,7 +22,7 @@ public class Solution {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int[] p = new int[n];
-        for(int p_i = 0; p_i < n; p_i++){
+        for (int p_i = 0; p_i < n; p_i++) {
             p[p_i] = in.nextInt();
         }
         int[] result = permutationEquation(p);

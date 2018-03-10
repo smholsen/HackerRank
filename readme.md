@@ -75,6 +75,8 @@ Challenge| Problem Statement | Solution | Testcases
 Challenge| Problem Statement | Solution | Testcases
 ----------|-------------------|----------|----------
 [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/testcases.zip)
+[Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess2/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess2/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess2/testcases.zip)
+[BotClean](https://www.hackerrank.com/challenges/botclean) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotClean/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotClean/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotClean/testcases.zip)
 
 
 ### Data Structures
