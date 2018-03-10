@@ -74,9 +74,10 @@ Challenge| Problem Statement | Solution | Testcases
 #### Bot Building
 Challenge| Problem Statement | Solution | Testcases
 ----------|-------------------|----------|----------
+[BotClean](https://www.hackerrank.com/challenges/botclean) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotClean/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotClean/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotClean/testcases.zip)
+[BotClean Stochastic](https://www.hackerrank.com/challenges/botcleanr) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotCleanStochastic/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotCleanStochastic/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotCleanStochastic/testcases.zip)
 [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess/testcases.zip)
 [Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess2/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess2/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotSavesPrincess2/testcases.zip)
-[BotClean](https://www.hackerrank.com/challenges/botclean) | [PDF](/Practice/ArtificialIntelligence/BotBuilding/BotClean/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/BotBuilding/BotClean/Solution.java) | [zip](/Practice/ArtificialIntelligence/BotBuilding/BotClean/testcases.zip)
 
 
 ### Data Structures
