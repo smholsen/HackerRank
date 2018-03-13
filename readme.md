@@ -77,6 +77,14 @@ Challenge| Problem Statement | Solution | Testcases
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [PDF](/Practice/Algorithms/Warmup/TimeConversion/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Warmup/TimeConversion/Solution.java) | [zip](/Practice/Algorithms/Warmup/TimeConversion/testcases.zip)    
 
 ### Artificial Intelligence 
+
+#### A*Search
+Challenge| Problem Statement | Solution | Testcases
+----------|-------------------|----------|----------
+[PacMan - BFS](https://www.hackerrank.com/challenges/pacman-bfs) | [PDF](/Practice/ArtificialIntelligence/AStarSearch/PacManBfs/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/AStarSearch/PacManBfs/Solution.java) | [zip](/Practice/ArtificialIntelligence/AStarSearch/PacManBfs/testcases.zip)
+[PacMan - DFS](https://www.hackerrank.com/challenges/pacman-dfs) | [PDF](/Practice/ArtificialIntelligence/AStarSearch/PacManDfs/ProblemStatement.pdf) | [Java](/Practice/ArtificialIntelligence/AStarSearch/PacManDfs/Solution.java) | [zip](/Practice/ArtificialIntelligence/AStarSearch/PacManDfs/testcases.zip)
+
+
 #### Bot Building
 Challenge| Problem Statement | Solution | Testcases
 ----------|-------------------|----------|----------
