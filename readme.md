@@ -25,6 +25,7 @@ Challenge| Problem Statement | Solution | Testcases
 #### Implementation
 Challenge| Problem Statement | Solution | Testcases
 ----------|-------------------|----------|----------
+[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) | [PDF](/Practice/Algorithms/Implementation/AcmIpcTeam/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/AcmIpcTeam/Solution.java) | [zip](/Practice/Algorithms/Implementation/AcmIpcTeam/testcases.zip)
 [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [PDF](/Practice/Algorithms/Implementation/AngryProfessor/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/AngryProfessor/Solution.java) | [zip](/Practice/Algorithms/Implementation/AngryProfessor/testcases.zip)
 [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | [PDF](/Practice/Algorithms/Implementation/AppendAndDelete/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/AppendAndDelete/Solution.java) | [zip](/Practice/Algorithms/Implementation/AppendAndDelete/testcases.zip)
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [PDF](/Practice/Algorithms/Implementation/AppleAndOrange/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Implementation/AppleAndOrange/Solution.java) | [zip](/Practice/Algorithms/Implementation/AppleAndOrange/testcases.zip)
