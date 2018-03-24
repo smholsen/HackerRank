@@ -20,6 +20,14 @@ Challenge| Problem Statement | Solution | Testcases
 
 ## Practice
 
+### Cracking the Coding Interview
+
+#### Data Structures
+Challenge| Problem Statement | Solution | Testcases
+----------|-------------------|----------|----------
+[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) | [PDF](/Practice/CrackingTheCodingInterview/ArraysLeftRotation/ProblemStatement.pdf) | [Java](/Practice/CrackingTheCodingInterview/ArraysLeftRotation/Solution.java) | None
+
+
 ### Algorithms
 
 #### Implementation
