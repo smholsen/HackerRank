@@ -22,13 +22,31 @@ Challenge| Problem Statement | Solution | Testcases
 
 ### Cracking the Coding Interview
 
-#### Data Structures
 Challenge| Problem Statement | Solution | Testcases
 ----------|-------------------|----------|----------
 [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) | [PDF](/Practice/CrackingTheCodingInterview/ArraysLeftRotation/ProblemStatement.pdf) | [Java](/Practice/CrackingTheCodingInterview/ArraysLeftRotation/Solution.java) | None
+[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem) | [PDF](/Practice/CrackingTheCodingInterview/DFSConnectedCellsInAGrid/ProblemStatement.pdf) | [Java](/Practice/CrackingTheCodingInterview/DFSConnectedCellsInAGrid/Solution.java) | [zip](/Practice/CrackingTheCodingInterview/DFSConnectedCellsInAGrid/testcases.zip)
+[Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem) | [PDF](/Practice/CrackingTheCodingInterview/RecursionDavisStaircase/ProblemStatement.pdf) | [Java](/Practice/CrackingTheCodingInterview/RecursionDavisStaircase/Solution.java) | [zip](/Practice/CrackingTheCodingInterview/RecursionDavisStaircase/testcases.zip)
+[Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem) | [PDF](/Practice/CrackingTheCodingInterview/RecursionFibonacci/ProblemStatement.pdf) | [Java](/Practice/CrackingTheCodingInterview/RecursionFibonacci/Solution.java) | [zip](/Practice/CrackingTheCodingInterview/RecursionFibonacci/testcases.zip)
+[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [PDF](/Practice/CrackingTheCodingInterview/SortingBubbleSort/ProblemStatement.pdf) | [Java](/Practice/CrackingTheCodingInterview/SortingBubbleSort/Solution.java) | [zip](/Practice/CrackingTheCodingInterview/SortingBubbleSort/testcases.zip)
+[Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | [PDF](/Practice/CrackingTheCodingInterview/SortingComparator/ProblemStatement.pdf) | [Java](/Practice/CrackingTheCodingInterview/SortingComparator/Solution.java) | [zip](/Practice/CrackingTheCodingInterview/SortingComparator/testcases.zip)
+[Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem) | [PDF](/Practice/CrackingTheCodingInterview/TreesIsThisABinarySearchTree/ProblemStatement.pdf) | [Java](/Practice/CrackingTheCodingInterview/TreesIsThisABinarySearchTree/Solution.java) | [zip](/Practice/CrackingTheCodingInterview/TreesIsThisABinarySearchTree/testcases.zip)
+
 
 
 ### Algorithms
+
+#### Constructive Algorithms
+Challenge| Problem Statement | Solution | Testcases
+----------|-------------------|----------|----------
+[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [PDF](/Practice/Algorithms/ConstructiveAlgorithms/NewYearChaos/ProblemStatement.pdf) | [Java](/Practice/Algorithms/ConstructiveAlgorithms/NewYearChaos/Solution.java) | [zip](/Practice/Algorithms/ConstructiveAlgorithms/NewYearChaos/testcases.zip)
+
+#### Greedy
+Challenge| Problem Statement | Solution | Testcases
+----------|-------------------|----------|----------
+[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [PDF](/Practice/Algorithms/Greedy/MarkAndToys/ProblemStatement.pdf) | [Java](/Practice/Algorithms/Greedy/MarkAndToys/Solution.java) | [zip](/Practice/Algorithms/Greedy/MarkAndToys/testcases.zip)
+
+
 
 #### Implementation
 Challenge| Problem Statement | Solution | Testcases
@@ -179,6 +197,11 @@ Challenge| Problem Statement | Solution | Testcases
 [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal) | [PDF](/Practice/DataStructures/Trees/TreePostorderTraversal/ProblemStatement.pdf) | [Java](/Practice/DataStructures/Trees/TreePostorderTraversal/Solution.java) | [zip](/Practice/DataStructures/Trees/TreePostorderTraversal/testcases.zip)
 [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | [PDF](/Practice/DataStructures/Trees/TreePreorderTraversal/ProblemStatement.pdf) | [Java](/Practice/DataStructures/Trees/TreePreorderTraversal/Solution.java) | [zip](/Practice/DataStructures/Trees/TreePreorderTraversal/testcases.zip)
 [Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view) | [PDF](/Practice/DataStructures/Trees/TreeTopView/ProblemStatement.pdf) | [Java](/Practice/DataStructures/Trees/TreeTopView/Solution.java) | [zip](/Practice/DataStructures/Trees/TreeTopView/testcases.zip)
+
+#### Trie
+Challenge| Problem Statement | Solution | Testcases
+----------|-------------------|----------|----------
+[Contacts](https://www.hackerrank.com/challenges/contacts/problem) | [PDF](/Practice/DataStructures/Trie/Contacts/ProblemStatement.pdf) | [Java](/Practice/DataStructures/Trie/Contacts/Solution.java) | [zip](/Practice/DataStructures/Trie/Contacts/testcases.zip)
 
 
 
